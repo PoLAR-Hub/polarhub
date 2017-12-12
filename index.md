@@ -14,4 +14,4 @@ climate change, including the games, activities, and other innovative
 tools developed by the PoLAR Partnership. 
 
 <img src="{{ '/files/ReAC_PlayingEcoChains cropped.jpg' | relative_url }}" alt="Photo of ReAC Camp" class="img-fluid" />
-Alaska/Arctic summer fun at the 2014 ReAC Camp with Alaska Native educators Laverne Haakenson, Maxine Dibert and Sharon Attla.They are playing the PoLAR developed Arctic food web card game EcoChains.
+Alaska/Arctic summer fun at the 2014 ReAC Camp with Alaska Native educators Laverne Haakenson, Maxine Dibert and Sharon Attla. They are playing the PoLAR developed Arctic food web card game EcoChains.
