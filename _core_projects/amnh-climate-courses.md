@@ -35,7 +35,7 @@ developed by educator's who completed the online course!  These lesson
 plans are teacher tested and ready to use in the classroom.  
 
 The AMNH course for teachers is offered several times throughout the
-year.  For more information, and to register, visit the [AMNH Climate Change course](http://www.amnh.org/learn/climate?utm_medium=email&utm_campaign=Sept%2013&utm_content=Sept%2013+Preview+CID_70981ac7a42c2c1780e8de1e45aeec9d&utm_source=Email%20marketing%20software&utm_term=online%20course%20about%20climate%20change)webpage.
+year.  For more information, and to register, visit the [AMNH Climate Change course](http://www.amnh.org/learn/climate?utm_medium=email&utm_campaign=Sept%2013&utm_content=Sept%2013+Preview+CID_70981ac7a42c2c1780e8de1e45aeec9d&utm_source=Email%20marketing%20software&utm_term=online%20course%20about%20climate%20change) webpage.
 
 **Stipends are available!**  We are looking for 100 science teachers to
 participate in our Seminars on Science Climate Change program. Each
