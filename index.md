@@ -6,12 +6,7 @@ layout: home
 ---
 
 # What is The PoLAR Hub?
-The PoLAR Hub is the official website of the Polar Learning and
-Responding (PoLAR) Climate Change Education Partnership.  In addition
-to featuring the latest in polar climate science, news, and research,
-the Hub provides information on educational resources focused on polar
-climate change, including the games, activities, and other innovative
-tools developed by the PoLAR Partnership. 
+Welcome to the website for the Polar Learning and Responding: PoLAR Climate Change Education Partnership. With support from the National Science Foundation, PoLAR designed and produced a portfolio of innovative approaches to climate change education. In addition to engaging audiences of all ages around the world on the topic of polar climate change, the Partnership conducted research on the effectiveness of the tools and resources created during the project. The PoLAR Hub website features information about our partners, our projects, and our results, including where you can find our tools and resources. 
 
 <img src="{{ '/files/ReAC_PlayingEcoChains cropped.jpg' | relative_url }}" alt="Photo of ReAC Camp" class="img-fluid" />
 Alaska/Arctic summer fun at the 2014 ReAC Camp with Alaska Native educators Laverne Haakenson, Maxine Dibert and Sharon Attla. They are playing the PoLAR developed Arctic food web card game EcoChains.
