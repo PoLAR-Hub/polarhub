@@ -52,6 +52,12 @@ Susanna Pollack is the Acting President of Games for Change. She has been forgin
 
 <div class="clearfix"></div>
 
+**Chris Hoadley**
+
+Dr. Hoadley is associate professor in the Educational Communication and Technology Program, the Program in Digital Media Design for Learning, and the Program on Games for Learning at New York University. He has 40 years experience designing and building educational technology, and has researched connections between technology, learning, and collaboration for 25 years. His research focuses on collaborative technologies, computer support for cooperative learning (CSCL), and design-based research methods, a term he coined in the late 1990s. Hoadley is the director of dolcelab, the Laboratory for Design Of Learning, Collaboration & Experience. He was an affiliate scholar for the National Academy of Engineering's Center for the Advancement of Scholarship in Engineering Education (CASEE) and was awarded a Fulbright to study educational technologies for sustainability and empowerment in rural Himalayan villages in 2008-2009. From 2011-2013, he was program director of the Educational Technology programs at NYU and founding program director of the Games for Learning program, and on the founding faculty presidium of MAGNET, the Media And Games Network. Hoadly holds a PhD in Science and Mathematics Education from the University of California, Berkeley. 
+
+<div class="clearfix"></div>
+
 ![Clive Tesar]({{ "/assets/img/advisory-committee/CliveTesar.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Clive Tesar**
