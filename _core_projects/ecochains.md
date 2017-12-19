@@ -42,8 +42,15 @@ Will Jordan-Cooley, Teachers College
 Ryan Courtney, Teachers College
 Eduardo Matamoros, Teachers College
 Jessica Brunacini, Columbia Climate Center
-  
 
+**Stephanie Pfirman Discusses EcoChains**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Fr0oesvwck" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+**How to Play EcoChains**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npii9FYaMT8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Fr0oesvwck?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/npii9FYaMT8?rel=0" frameborder="0" allowfullscreen></iframe>
