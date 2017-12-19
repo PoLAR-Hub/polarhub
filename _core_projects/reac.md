@@ -28,3 +28,7 @@ Elena Sparrow (Co-Lead), International Arctic Research Center
 Malinda Chase (Co-Lead), Association of Interior Native Educators
 Sam Demientieff, Athabascan Elder 
 Jessica Brunacini, Columbia Climate Center
+
+**Signs of the Land: Reaching Arctic Communities Facing Climate Change Camp 2014**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JI07W7pRYUQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
