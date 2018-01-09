@@ -4,7 +4,7 @@ title: FutureCoast
 short-title: FutureCoast
 landing-page-image: /files/FutureCoast_TPHupdated-image.jpg
 landing-page-description: Explore publicly crowd sourced voicemails about possible climate changed futures in this collaborative storytelling experience.
-permalink: /core_projects/futurecoast.html
+permalink: /core-projects/futurecoast.html
 ---
 
 **Description:**

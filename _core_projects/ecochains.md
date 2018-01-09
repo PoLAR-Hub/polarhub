@@ -5,7 +5,7 @@ short-title: EcoChains
 image: /files/EcoChainsArcticCrisis_Cards.jpg
 landing-page-image: /files/project-square-ecochains.png
 landing-page-description: Players are challenged to protect the Arctic marine ecosystem from the effects of rapidly warming temperatures in this card game of strategy and survival.
-permalink: /core_projects/ecochains.html
+permalink: /core-projects/ecochains.html
 ---
 
 **EcoChains: Arctic Crisis is now available for purchase at [ecochainsgame.com](http://www.amazon.com/dp/B00Q8S8J8I/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=httpwwwgame05-20&amp;linkId=5ac733fbd0a363c1264e1f7f836bbbc4")!**

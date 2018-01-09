@@ -11,10 +11,10 @@
       <div class="container core-project">
         <h1>{{ page.title }}</h1>
         {% if page.image %}
-        <img src="{{ page.image | relative_url }}" class="float-right img-fluid">
+        <img src="{{ site.url }}{{ page.image }}" class="float-right img-fluid">
         {% endif %}
         {{ content }}
-        <div><a href="{{ core-projects | relative_url }}">Back to Core Projects</a></div>
+        <div><a href="{{ site.url }}/core-projects/">Back to Core Projects</a></div>
       </div>
     </main>
 

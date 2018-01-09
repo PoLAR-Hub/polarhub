@@ -5,7 +5,7 @@ image: /files/AMNH_1Day_SMARTIC3.jpg
 short-title: SMARTIC 
 landing-page-image: /files/project-square-smartic.png
 landing-page-description: Through simulated role play, students learn about the opportunities and risks facing key stakeholders in a rapidly changing Arctic.
-permalink: /core_projects/smartic
+permalink: /core-projects/smartic
 ---
 
 Based on the approach of the US Navy's [Fleet Arctic Operations

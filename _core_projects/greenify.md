@@ -5,7 +5,7 @@ image: /files/GreenifyImage2.png
 short-title: Greenify
 landing-page-image: /files/project-square-greenify.png
 landing-page-description: Challenge yourself and others in your social network to respond to climate change through real world, sustainable actions.
-permalink: /core_projects/greenify.html
+permalink: /core-projects/greenify.html
 ---
 
 **Description:**

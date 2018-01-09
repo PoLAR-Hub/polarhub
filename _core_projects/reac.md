@@ -5,7 +5,7 @@ image: /files/ReAC_PlayingEcoChains.jpg
 short-title: ReAC 
 landing-page-image: /files/project-square-reac.png
 landing-page-description: "The Signs of the Land Camp: Reaching Arctic Communities Facing Climate Change blends Alaska Native knowledge and western climate science."
-permalink: /core_projects/reac.html
+permalink: /core-projects/reac.html
 ---
 
 **Description:**
