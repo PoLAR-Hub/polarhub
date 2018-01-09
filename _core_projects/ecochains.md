@@ -8,48 +8,49 @@ landing-page-description: Players are challenged to protect the Arctic marine ec
 permalink: /core-projects/ecochains.html
 ---
 
-**EcoChains: Arctic Crisis is now available for purchase at [ecochainsgame.com](http://www.amazon.com/dp/B00Q8S8J8I/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=httpwwwgame05-20&amp;linkId=5ac733fbd0a363c1264e1f7f836bbbc4")!**
+**Description:**
+The polar regions are special places full of unique animals who depend on sea ice to live. They are also the fastest changing places on Earth. How do these changes affect the ecosystems, what can the animals do to survive, and how can you help?
 
-The Arctic is a special place that's full of unique animals who depend on sea ice to live. It's also one of the fastest changing places on Earth. How do these changes affect the ecosystem, what can the animals do to survive, and how can you help?
+EcoChains is a fun and easy-to-learn card game for all ages. In these 2-4 player games of strategy and survival, players build food webs, learn about the importance of sea ice, and see the potential impact of future changes on the ecosystem.
 
-*EcoChains: Arctic Crisis* is a fun and easy-to-learn card game for all ages. In this 2-4 player game of strategy and survival, players build an Arctic marine food web, learn about the importance of sea ice, and see the potential impact of future changes on the ecosystem.
+PoLAR started the EcoChains series with Arctic Crisis, which is available for purchase at [ecochainsgame.com](ecochainsgame.com). In collaboration with scientists at the [Palmer Long Term Ecological Research Station](http://pal.lternet.edu/), partners developed an Antarctic version of the game to focus on the Western Peninsula marine ecosystem. These games are being used by the Norwegian cruise company Hurtigruten as part of an [on-board educational program](https://www.hurtigruten.us/us-news/hurtigrutens-young-explorers-program-offers-age-appropriate---learning-experience-to-kids-during-antarctica-sailings/). Most recently, PoLAR created a quick-play version of the game, which is for sale at the American Museum of Natural History's main gift shop. This simplified 2-player game, Arctic Life, won a [Parents' Choice Award](http://www.parents-choice.org/product.cfm?product_id=35014&StepNum=1&award=aw) in spring 2017. 
 
 **What players are saying:**
-*“I was amazed by how interconnected the entire system of Arctic species are, and realized how much would be affected by just a few minor changes.”*
-*“I certainly felt an adrenaline rush as I kept the possibility of a major disaster impacting my web at the forefront of my mind to strategize the best possible food web combination.”*
 
-lllustrations by Bree Westphal; design by Eduard Matamoros.
+“I was amazed by how interconnected the entire system of Arctic species are, and realized how much would be affected by just a few minor changes.”
 
-**Resources for Educators:**
-Quick guides for using *EcoChains* in classroms and other learning spaces:
-- [EcoChains-HS-Classroom-QuickGuide-NGSS.pdf]({{ "/files/EcoChains-HS-Classroom-QuickGuide.pdf" | relative_url }})
-- [EcoChains-MS-Classroom-QuickGuide-NGSS.pdf]({{ "/files/EcoChains-MS-Classroom-QuickGuide_0.pdf" | relative_url }})
-- [EcoChains-NCA-QuickGuide.pdf]({{ "/files/EcoChains-NCA-QuickGuide.pdf" | relative_url }})
+ “I certainly felt an adrenaline rush as I kept the possibility of a major disaster impacting my web at the forefront of my mind to strategize the best possible food web combination.”
 
-Starter game instructions:
-- [EcoChains-QuickStart-GamePlay.pdf]({{ "/files/EcoChains-QuickStart-GamePlay_0.pdf" | relative_url }})
+**Resources:**
+Are you an educator intersted in using EcoChains: Arctic Crisis in your classroom? Buy 6 or more decks and get 33% off your order! Visit [ecochainsgame.com](ecochainsgame.com) and enter code EDU6PACK at checkout. You can also send an email to contact@ecochainsgame.com for more details about classroom pricing.
 
-*EcoChains* species information sheets:
-- [PolarBear.pdf]({{ "/files/polarbear.pdf" | relative_url }})
-- [Beluga.pdf]({{ "/files/beluga.pdf" | relative_url }})
-- [Narwhal.pdf]({{ "/files/narwhal.pdf" | relative_url }})
-- [Walrus.pdf]({{ "/files/walrus.pdf" | relative_url }})
+Quick guides are also available for using EcoChains in classroms and other learning spaces:
 
-Companion article:
-- [EcoChains-CompanionArticle.pdf]({{ "/files/EcoChains-CompanionArticle.pdf" | relative_url }})
-- [*Arctic Matters: The Global Connection to Changes in the Arctic*]( http://nas-sites.org/arctic/files/2015/06/Arctic_Matters-booklet.pdf ) © 2015, by the National Academy of Sciences
+-[Quick guide for Middle School](https://drive.google.com/open?id=0By1P8MnVLT5vQVJWT3pQN3Fjazg)
+-[Quick guide for High School](https://drive.google.com/open?id=0By1P8MnVLT5vekxuSk50WVhZWUk)
+-[Quick guide for aligning to the 4th National Climate Assessment](https://drive.google.com/open?id=0By1P8MnVLT5vTWY4bURCdm9TX3c)
 
-**Organization Name:**  
-Barnard College  
-Teachers College  
+Educators can also pair the game with a [companion article](https://drive.google.com/open?id=0By1P8MnVLT5vUU1zNTJBN1NzZkk) for extended learning. 
 
-**Project Lead:**  
-Stephanie Pfirman  
-Joey Lee  
+**Project Personnel:**
+Stephanie Pfirman (Co-Lead), Barnard College
+Joey Lee (Co-Lead), Teachers College
+Jonathan Ng, Independent Designer
+Bree Westphal, Independent Illustrator
+Tom Toynton, Teachers College
+Will Jordan-Cooley, Teachers College
+Ryan Courtney, Teachers College
+Eduardo Matamoros, Teachers College
+Jessica Brunacini, Columbia Climate Center
 
-**Key Personnel:**  
-Tom Toynton  
+**Stephanie Pfirman Discusses EcoChains**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Fr0oesvwck" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+**How to Play EcoChains**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npii9FYaMT8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Fr0oesvwck?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/npii9FYaMT8?rel=0" frameborder="0" allowfullscreen></iframe>

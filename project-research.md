@@ -4,7 +4,13 @@ title: Project Research
 permalink: /project-research/
 ---
 
-Below are publications and presentations produced by the PoLAR Partners.
+The following publications highlight research findings related to PoLAR projects and approaches.
+
+[**'Economic Value of Ecosystem Services, Minerals and Oil in a Melting Arctic: A Preliminary Assessment'**](http://www.sciencedirect.com/science/article/pii/S2212041616301309)
+
+Abstract: The Arctic region is composed of unique marine and terrestrial ecosystems that provide a range of services to local and global populations. However, Arctic sea-ice is melting at an unprecedented rate, threatening many of these ecosystems and the services they provide. This short communication provides a preliminary assessment of the quantity, distribution and economic value of key ecosystem services as well as geological resources such as oil and minerals provided by Arctic ecosystems to beneficiaries in the Arctic region and globally. Using biophysical and economic data from existing studies, preliminary estimates indicate that the Arctic currently provides about $281 billion per year (in 2016 US$) in terms of food, mineral extraction, oil production, tourism, hunting, existence values and climate regulation. However, given predictions of ice-free summers by 2037, many of the ecosystem services may be lost. We hope that this communication stimulates discussion among policy-makers regarding the value of ecosystem services and such geological resources as minerals and oil provided by the Arctic region, and the potential ecosystem losses resulting from Arctic melt, so as to motivate decisions vis a vis climate change mitigation before Arctic ice disappears completely.
+
+-   O'Garra, T. (2017) ''Economic Value of Ecosystem Services, Minerals and Oil in a Melting Arctic: A Preliminary Assessment.' Ecosystem Services, 24:180-186. 
 
 [**'Climate Change Games as Tools for Education and
 Engagement'**](http://www.nature.com/nclimate/journal/v5/n5/full/nclimate2566.html)
@@ -23,64 +29,14 @@ benefits and trade-offs of their use, and reasons why they hold such
 promise for education and engagement regarding climate change.
 
 -   Wu, J.S. and Lee, J.J. (2015). "Climate change games as tools for
-    education and engagement." *Nature Climate Change*. 
+    education and engagement." *Nature Climate Change*, 5:413-418. 
 
-**[Ask US - Change Over Time: Investigate Climate Change Impacts in
-Alaska](https://plus.google.com/u/0/events/c5d4hpl5cvfor54cdfhbi4bt680)**
+[**'Exploring the Efficacy and Engagement of a Glacial Melting Simulation'**](https://www.nestanet.org/cms/sites/default/files/journal/LDEO_Fall2014sep.pdf)
 
-Description: [The National Climate Assessment, released in May of 2014,
-summarizes the impacts of climate change on the United States, touching
-on many disciplines: earth science, biology, human health, engineering,
-technology, economics, and policy.  Explore the document with lead NCA
-author Sarah Trainor, and find out about related educational resources
-with Jessica Brunacini of the PoLAR Climate Change Education
-Partnership, Elena Sparrow of the International Arctic Research Center,
-and Malinda Chase of the Association of Interior Native Educators. Learn
-more about the rapid changes taking place in Alaska, ask questions about
-the science behind the report and related learning resources, and
-discover how to bring the NCA to life for learners of all ages.
- Original broadcast: April 13th, 2015.]{}
+Abstract: It can be difficult for students to relate abstract representations of Earth features to processes and concrete changes in their everyday world. This article describes the study of the use of an interactive simulation designed to help students understand how glacial melting affects sea level rise by using interactives that link glacial contour maps to visualizations of glacial melting and the resulting sea level rise. Students using this simulation reported high engagement scores and performed well on comprehension questions. Practical applications of the learning framework used to design the simulation and updates to the simulation based on this study are also discussed in this article. 
 
-[**‘Arctic Warming and Your Weather: Public Belief in the
-Connection’**](http://onlinelibrary.wiley.com/doi/10.1002/joc.3796/abstract)
-
-Abstract: Will Arctic warming affect mid-latitude weather? Many
-researchers think so, and have addressed this question through
-scientific articles and news media. Much of the public accepts such a
-connection as well. Across three New Hampshire surveys with more than
-1500 interviews, 60% of respondents say they think future Arctic warming
-would have major effects on their weather. Arctic/weather responses
-changed little after Superstorm Sandy brushed the region, but exhibit
-consistently strong partisan divisions that grow wider with education.
-Belief in an Arctic/weather connection also varies, in a nonlinear
-pattern, with the temperature anomaly around day of interview.
-Interviewed on unseasonably warm or cool days, respondents are more
-likely to think that Arctic warming would have major effects on their
-weather.  This unscientific response seems to mirror the scientific
-discussion about extremes.
-
--   Hamilton, L.C. and Lemcke-Stampone, M. (2013). “Arctic warming and
-    your weather: Public belief in the connection.” *International
-    Journal of Climatology*.
-
-**‘[Greenify: Fostering Sustainable Communities via
-Gamification](http://www.gameprof.com/wp-content/uploads/2013/03/Lee-et-al-2013-CHI-Greenify.pdf)’**
-
-Abstract: At Teachers College, Columbia University, the Games Research
-Lab has created *Greenify, *an online social platform designed to foster
-flourishing sustainable communities. Gamification elements facilitated
-the creation and completion of user-generated missions, encouraging
-interaction between geographically proximate communities of peers. Three
-elements were identified as necessary components to achieve sustainable
-communities: a healthy climate and environment, social well-being, and
-economic security. This paper describes our approach in addressing these
-elements through a crowdsourced, gamified system. Implications for
-human-computer interaction are also discussed.
-
--   Lee, J. J., Matamoros, E., Kern, R., deLuna, C., Marks, J.,
-    Jordan-Cooley, W. (2013).  Greenify: fostering sustainable
-    communities via gamification.  ACM SIGCHI Conference on Human
-    Factors in Computing Systems, 2013, Paris, France.
+-   Virk, S.S., Turrin, M., and Compres, L. (2014). Exploring the Efficacy 
+and Engagement of a Glacial Melting Simulation. The Earth Scientist. XXX (3), 38.
 
 [**‘Greenify: A Real-World Action Game for Climate Change
 Education’**](http://sag.sagepub.com/content/early/2013/01/09/1046878112470539)
@@ -96,18 +52,4 @@ was perceived as a fun and engaging experience.
 
 -   Lee, J. J., Ceyhan, P., Jordan-Cooley, W., & Sung, W. (2013).
      "Greenify: A real-world action game for climate change education."
-     *Simulation and Gaming*. 
-
-**[Gaming Do’s and Don’ts: Lessons Learned from Inside and Outside the
-Classroom](http://www.youtube.com/watch?v=OC4mq80qd0o)**
-
-CAMEL Climate Change Continuing Education Symposium Webinar series,
-October 23rd, 2012. Presentation led by PI Stephanie Pfirman.
-
-**[A New Record Low in Arctic Sea Ice
-Extent](http://www.youtube.com/watch?v=5vupjJsl7eo&noredirect=1)**
-
-Earth Institute Seminars on Sustainable Development Series, September
-19th, 2012. Panel presentation and discussion with PI Stephanie Pfirman,
-Co-PI Peter Schlosser, Project Lead Ben Orlove, and Project Advisor Anne
-Siders.
+     *Simulation and Gaming*.

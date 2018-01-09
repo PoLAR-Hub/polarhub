@@ -20,45 +20,27 @@ past; how scientists use models, observations and theory to make
 predictions about future climate; and the possible consequences of
 climate change for our planet.  Teachers learn about valuable resources,
 tools, and activities that can be implemented in their classrooms, and
-also contribute to a curriculum repository.  
+also contribute to a curriculum repository. Over the period of five years, 250 teachers from across the United States received a PoLAR-support stipend to participate in the Seminars on Science Online Climate Change course, more than 90% of whom were from Title I schools.  
 
 A related series of online courses for adults is also available.  For
 more information, please visit AMNH's [Our Earth's
 Future](https://www.coursera.org/learn/earth-climate-change) course page
 on Coursera. 
 
-**Annoucement:**
+**Resources:**
 
-AMNH recently launched a [curriculum collection on polar climate
+AMNH hosts a [curriculum collection on polar climate
 change](http://www.amnh.org/explore/curriculum-collections/polar-climate-change-lesson-plans),
-developed by educator's who completed the online course!  These lesson
+developed by educators who received the PoLAR stipend and completed the online course. These lesson
 plans are teacher tested and ready to use in the classroom.  
 
-The AMNH course for teachers is offered several times throughout the
+The AMNH course for teachers continues to be offered several times throughout the
 year.  For more information, and to register, visit the [AMNH Climate Change course](http://www.amnh.org/learn/climate?utm_medium=email&utm_campaign=Sept%2013&utm_content=Sept%2013+Preview+CID_70981ac7a42c2c1780e8de1e45aeec9d&utm_source=Email%20marketing%20software&utm_term=online%20course%20about%20climate%20change) webpage.
+ 
 
-**Stipends are available!**  We are looking for 100 science teachers to
-participate in our Seminars on Science Climate Change program. Each
-participant will receive a $500 stipend to offset the cost of
-completing the [online course about climate
-change](http://seminarsonscience.cmail2.com/t/r-i-buttutd-l-o/). The
-course is available for graduate credit at several of our partner
-institutions for an additional cost.
-
-Please [complete this form](http://seminarsonscience.cmail2.com/t/r-i-buttutd-l-m/) to
-apply. Selected participants will be notified on a rolling basis.
-
-**Organization Name:**  
-American Museum of Natural History  
-
-**Project Lead:**  
+**Project Personnel:**  
 Robert V. Steiner, Ph.D.  
-
-**Key Personnel:**  
 Rosamond Kinzler,  
 Ph.D. David Randle,  
 Ph.D. Maria Janelli  
 Daniel Wolff  
-
-**Project URL:**  
-[http://www.amnh.org/learn/climate](http://www.amnh.org/learn/climate)
