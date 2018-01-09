@@ -3,7 +3,7 @@ layout: core_project
 title: ecoKoin 
 image: /files/ecoKoin-image.jpeg
 short-title: ecoKoin
-landing-page-image: /files/project-square-greenify.png
+landing-page-image: /files/ecokoin-logo.png
 landing-page-description: Challenge yourself and others in your social network to respond to climate change through real world, sustainable actions.
 permalink: /core-projects/greenify.html
 ---
