@@ -2,8 +2,13 @@
 layout: core_project 
 title: ecoKoin 
 image: /files/ecoKoin-image.jpeg
+<<<<<<< HEAD:_core_projects/greenify.md
 short-title: ecoKoin
 landing-page-image: /files/project-square-greenify.png
+=======
+short-title: ecoKoin 
+landing-page-image: /files/ecokoin-logo.png
+>>>>>>> PMT #113393 Update Greenify to ecoKoin:_core_projects/ecokoin.md
 landing-page-description: Challenge yourself and others in your social network to respond to climate change through real world, sustainable actions.
 permalink: /core-projects/greenify.html
 ---
