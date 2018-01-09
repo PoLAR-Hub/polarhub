@@ -4,7 +4,7 @@ title: External Advisory Committee
 permalink: /external-advisory-committee/
 ---
 
-![Sarah Aucoin]({{ "/assets/img/advisory-committee/SarahAucoin.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Sarah Aucoin]({{ site.url }}/assets/img/advisory-committee/SarahAucoin.jpg){:class="rounded float-left partner"}
 
 **Sarah Aucoin**
 
@@ -12,7 +12,7 @@ Sarah Grimké Aucoin is the Director of the Urban Park Rangers, a division of NY
 
 <div class="clearfix"></div>
 
-![Asi Burak]({{ "/assets/img/advisory-committee/AsiBurak.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Asi Burak]({{ site.url }}/assets/img/advisory-committee/AsiBurak.jpg){:class="rounded float-left partner"}
 
 **Asi Burak**
 
@@ -20,7 +20,7 @@ Asi Burak is an award-winning game creator, tech executive, and social entrepren
 
 <div class="clearfix"></div>
 
-![Annette deCharon]({{ "/assets/img/advisory-committee/AnnetteDeCharon.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Annette deCharon]({{ site.url }}/assets/img/advisory-committee/AnnetteDeCharon.jpg){:class="rounded float-left partner"}
 
 **Annette deCharon**
 
@@ -28,7 +28,7 @@ Annette deCharon is the Director of the Center for Ocean Science Education Excel
 
 <div class="clearfix"></div>
 
-![Sam Demientieff]({{ "/assets/img/advisory-committee/SamDemientieff_0.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Sam Demientieff]({{ site.url }}/assets/img/advisory-committee/SamDemientieff_0.jpg){:class="rounded float-left partner"}
 
 **Sam Demientieff**
 
@@ -36,7 +36,7 @@ Samuel Demientieff is a respected Athabascan Elder who grew up on the Yukon and 
 
 <div class="clearfix"></div>
 
-![Amy Goldman]({{ "/assets/img/advisory-committee/AmyGoldman.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Amy Goldman]({{ site.url }}/assets/img/advisory-committee/AmyGoldman.jpg){:class="rounded float-left partner"}
 
 **Amy Goldman**
 
@@ -44,7 +44,7 @@ Amy Goldman is the Founder & CEO of Allera Strategies, LLC, providing organizati
 
 <div class="clearfix"></div>
 
-![Susanna Pollack]({{ "/assets/img/advisory-committee/pollack.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Susanna Pollack]({{ site.url }}/assets/img/advisory-committee/pollack.jpg){:class="rounded float-left partner"}
 
 **Susanna Pollack**
 
@@ -52,13 +52,15 @@ Susanna Pollack is the Acting President of Games for Change. She has been forgin
 
 <div class="clearfix"></div>
 
+![Chris Hoadley]({{ site.url }}/assets/img/advisory-committee/ChrisHoadleyPic.jpg){:class="rounded float-left partner"}
+
 **Chris Hoadley**
 
 Dr. Hoadley is associate professor in the Educational Communication and Technology Program, the Program in Digital Media Design for Learning, and the Program on Games for Learning at New York University. He has 40 years experience designing and building educational technology, and has researched connections between technology, learning, and collaboration for 25 years. His research focuses on collaborative technologies, computer support for cooperative learning (CSCL), and design-based research methods, a term he coined in the late 1990s. Hoadley is the director of dolcelab, the Laboratory for Design Of Learning, Collaboration & Experience. He was an affiliate scholar for the National Academy of Engineering's Center for the Advancement of Scholarship in Engineering Education (CASEE) and was awarded a Fulbright to study educational technologies for sustainability and empowerment in rural Himalayan villages in 2008-2009. From 2011-2013, he was program director of the Educational Technology programs at NYU and founding program director of the Games for Learning program, and on the founding faculty presidium of MAGNET, the Media And Games Network. Hoadly holds a PhD in Science and Mathematics Education from the University of California, Berkeley. 
 
 <div class="clearfix"></div>
 
-![Clive Tesar]({{ "/assets/img/advisory-committee/CliveTesar.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Clive Tesar]({{ site.url }}/assets/img/advisory-committee/CliveTesar.jpg){:class="rounded float-left partner"}
 
 **Clive Tesar**
 
