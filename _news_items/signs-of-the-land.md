@@ -9,7 +9,7 @@ image: "/assets/img/news-items/Photo%201.jpg"
 
 *A partnership project between the Association of Interior Native
 Educators, the University of Alaska Fairbanks International Arctic
-Research Center, Doyon Foundation, and the Gwich’in Steering
+Research Center, Doyon Foundation, and the Gwich'in Steering
 Committee*
 
 <p class="Normal1"><i><span> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span><img src="https://origin.ih.constantcontact.com/fs104/1101544769305/img/583.jpg?ver=1394046194000?ver=1394046194000?ver=1394046194000?ver=1394046194000" width="98" height="98"><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><img src="https://origin.ih.constantcontact.com/fs104/1101544769305/img/588.jpg?ver=1394131067000?ver=1394131067000?ver=1394131067000?ver=1394131067000?ver=1394131067000?ver=1394131067000" width="98" height="106"><span>&nbsp;&nbsp;</span><img src="https://origin.ih.constantcontact.com/fs104/1101544769305/img/587.png?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000?ver=1394046684000" width="87" height="106"><span>&nbsp;&nbsp;&nbsp;</span><img src="https://origin.ih.constantcontact.com/fs104/1101544769305/img/590.jpg?ver=1394131682000" width="184" height="74"><span>&nbsp;</span></i></p>
@@ -44,7 +44,7 @@ assistance policy and
 application.](https://origin.library.constantcontact.com/doc204/1101544769305/doc/BVpfQ210oJ9Wcre6.pdf)
 
 **Campsite:** This academy will be held as a five-day/four night camp at
-Howard Luke’ Gaalee’ya Camp on the Tanana River near Fairbanks, Alaska.
+Howard Luke' Gaalee'ya Camp on the Tanana River near Fairbanks, Alaska.
 Participants will need to bring their individual tent, camping gear and
 utensils.
 

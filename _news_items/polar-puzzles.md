@@ -22,7 +22,7 @@ your own set of polar puzzle activities.  Using maps, data
 visualizations, and photographs from the Arctic, Alaska, and Antarctica,
 these activities match a physical puzzle with supporting imagery to tell
 a story about our changing climate.  For each activity you will find an
-image labeled “puzzle” which you can download and use to order a **20 x
+image labeled "puzzle" which you can download and use to order a **20 x
 28 inch**, **48+ piece** puzzle from a variety of online custom puzzle
 shops.  Three of the puzzles (Antarctica, Plateau Glacier, and Pedersen
 Glaceir) are paired with a supporting image or set of maps that can be
