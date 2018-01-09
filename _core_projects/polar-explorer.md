@@ -1,7 +1,7 @@
 ---
 layout: core_project 
 title: "Polar Explorer: Sea Level"
-image: /files/PolarExplorer_Screenshot2.jpg
+image: /files/PolarExplorer-image.jpg
 short-title: Polar Explorer 
 landing-page-image: /files/project-square-polarexplorer.png
 landing-page-description: How does ice in the Arctic and Antarctic affect global sea levels? Explore these connections in a data driven, map-based iPad app.

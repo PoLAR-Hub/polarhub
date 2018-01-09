@@ -1,7 +1,7 @@
 ---
 layout: core_project 
 title: SMARTIC (Strategic Management of Resources in Times of Change) 
-image: /files/AMNH_1Day_SMARTIC3.jpg
+image: /files/SMARTIC-image.jpg
 short-title: SMARTIC 
 landing-page-image: /files/project-square-smartic.png
 landing-page-description: Through simulated role play, students learn about the opportunities and risks facing key stakeholders in a rapidly changing Arctic.

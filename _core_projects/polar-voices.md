@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: core_project 
 title: PoLAR Voices 
-image: /files/polarvoices.jpg 
+image: /files/PolarVoices-image.png
 short-title: PoLAR Voices
 landing-page-image: /files/polarvoices.jpg 
 landing-page-description: Meet the people who live, work, and study in the polar regions through a series of audio programs.
