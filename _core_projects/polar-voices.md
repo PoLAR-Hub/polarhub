@@ -16,13 +16,15 @@ Polar Voices is an educational podcast that explores climate change in the Arcti
 
 **Resources:**
 
+[Polar Voices on Soundcloud](https://soundcloud.com/arcticinstituteofn-americ)
+
 An archive of the podcast can be found [here](http://arctic.ucalgary.ca/podcasts-archive).
 
 Want to dig deeper into the content of Polar Voices episodes? Check out the [transcripts!](https://drive.google.com/open?id=0By1P8MnVLT5vVTFfQXZFNFhuLVE)
 
-**Project Personnel:**
-Maribeth Murray (Lead), Arctic Institute of North America
-Mike Moloney, AINA
-Annie Quinney, AINA
-Roger Topp, Museum of the North
-Kelsey Gobroski, Museum of the North
+**Project Personnel:**  
+Maribeth Murray (Lead), Arctic Institute of North America   
+Mike Moloney, AINA  
+Annie Quinney, AINA  
+Roger Topp, Museum of the North  
+Kelsey Gobroski, Museum of the North  
