@@ -9,7 +9,7 @@ of experts in climate science, learning theory, and formal and
 informal education.
 
 
-![Stephanie Pfirman]({{ "/assets/img/partners/StephaniePfirman.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Stephanie Pfirman]({{ site.url }}/assets/img/partners/StephaniePfirman.jpg){:class="rounded float-left partner"}
 
 **Stephanie Pfirman**, Principal Investigator and Project Lead
 
@@ -19,7 +19,7 @@ Dr. Stephanie L. Pfirman, Professor of Environmental Science and Alena Wels Hirs
 
 <div class="clearfix"></div>
 
-![Joey Lee]({{ "/assets/img/partners/JoeyLee.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Joey Lee]({{ site.url }}/assets/img/partners/JoeyLee.jpg){:class="rounded float-left partner"}
 
 **Joey Lee**, Co-PI and Project Lead
 
@@ -29,7 +29,7 @@ Dr. Joey Lee is an Assistant Professor of Technology and Education at Columbia U
 
 <div class="clearfix"></div>
 
-![Peter Schlosser]({{ "/assets/img/partners/PeterSchlosser.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Peter Schlosser]({{ site.url }}/assets/img/partners/PeterSchlosser.jpg){:class="rounded float-left partner"}
 
 **Peter Schlosser**, Co-PI
 
@@ -37,7 +37,7 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 <div class="clearfix"></div>
 
-![Elena Sparrow]({{ "/assets/img/partners/ElenaSparrow.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Elena Sparrow]({{ site.url }}/assets/img/partners/ElenaSparrow.jpg){:class="rounded float-left partner"}
 
 **Elena Sparrow**, Co-PI and Project Lead
 
@@ -47,7 +47,7 @@ Dr. Elena Bautista Sparrow is a Research Professor of Soil Microbiology and Envi
 
 <div class="clearfix"></div>
 
-![Robert Steiner]({{ "/assets/img/partners/RobertSteiner.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Robert Steiner]({{ site.url }}/assets/img/partners/RobertSteiner.jpeg){:class="rounded float-left partner"}
 
 **Robert Steiner**, Co-PI and Project Lead
 
@@ -57,13 +57,15 @@ Dr. Robert V. Steiner directs online teacher education at the American Museum of
 
 <div class="clearfix"></div>
 
+![Grace Bachman]({{ site.url }}/assets/img/partners/GraceBachman.jpg){:class="rounded float-left partner"}
+
 **Grace Bachman,** External Evaluator
 
 Grace Bachman is a Research Assistant at Goodman Research Group, Inc. She began working with the PoLAR Partnership in 2015, and has since collaborated on the research and evaluation of several PoLAR resources (Polar Explorer, PoLAR Voices, ReAC, and EcoKoin). In addition to PoLAR, she also assisted Dr. Bachrach in the evaluation of CUSP, the Franklin Institute's Climate Change Education Partnership. Before joining GRG, in 2015 she received her B.A. in Psychology from Wellesley College.
 
 <div class="clearfix"></div>
 
-![Ken Eklund]({{ "/assets/img/partners/KenEklund.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Ken Eklund]({{ site.url }}/assets/img/partners/KenEklund.jpg){:class="rounded float-left partner"}
 
 **Ken Eklund**, Project Lead
 
@@ -73,7 +75,7 @@ Designer of a new breed of collaborative and socially relevant games, Ken Eklund
 
 <div class="clearfix"></div>
 
-![Maribeth Murray]({{ "/assets/img/partners/MaribethMurray.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Maribeth Murray]({{ site.url }}/assets/img/partners/MaribethMurray.jpg){:class="rounded float-left partner"}
 
 **Maribeth Murray**, Project Lead
 
@@ -83,13 +85,15 @@ Dr. Maribeth Murray is the director of the University of Calgary’s Arctic Inst
 
 <div class="clearfix"></div>
 
+![Tanya O'Garra]({{ site.url }}/assets/img/partners/TanyaOGarra.jpg){:class="rounded float-left partner"}
+
 **Tanya O'Garra**, Post-Doc
 
 Dr. Tanya O'Garra is a Lecturer in the Department of Economics at Middlesex University in London. Her current research focuses on the design and testing of mechanisms to motivate collective action around common pool resources and public goods across a range of cultural, institutional and natural resource management contexts. During her time as an Earth Institute Postdoctoral Research Fellow at CRED, she worked with PoLAR to conduct a study in which she used fuzzy cognitive mapping via randomized controlled experiments in the lab to identify the impacts of novel educational tools on learning and systems thinking. O'Garra holds a PhD in Environmental Economics from Imperial College London. 
 
 <div class="clearfix"></div>
 
-![Ben Orlove]({{ "/assets/img/partners/BenOrlove.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Ben Orlove]({{ site.url }}/assets/img/partners/BenOrlove.jpg){:class="rounded float-left partner"}
 
 **Ben Orlove**, Project Lead
 
@@ -97,7 +101,7 @@ Dr. Ben Orlove, an anthropologist, is one of the four co-directors of the Center
 
 <div class="clearfix"></div>
 
-![Margie Turrin]({{ "/assets/img/partners/MargieTurrin.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Margie Turrin]({{ site.url }}/assets/img/partners/MargieTurrin.jpg){:class="rounded float-left partner"}
 
 **Margie Turrin**, Project Lead
 
@@ -107,7 +111,7 @@ Margie Turrin is Education Coordinator at Columbia University's Lamont-Doherty E
 
 <div class="clearfix"></div>
 
-![Robin Bell]({{ "/assets/img/partners/RobinBell.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Robin Bell]({{ site.url }}/assets/img/partners/RobinBell.jpeg){:class="rounded float-left partner"}
 
 **Robin Bell**, Partner
 
@@ -117,13 +121,15 @@ Dr. Robin E. Bell is the Palisades Geophysical Institute Lamont Research Profess
 
 <div class="clearfix"></div>
 
+![William Brewer]({{ site.url }}/assets/img/partners/WilliamBrewer.jpeg){:class="rounded float-left partner"}
+
 **William Brewer**, Administration
 
 William Brewer, Administration: William Brewer is the Project Assistant at the Columbia Climate Center and Center for Research on Environmental Decisions (CRED), where he provides administrative support for the departments. William has several years of experience at Columbia, having previously worked at different positions in the university's library system. He received his B.A. from Fordham University, and earned a Post-baccalaureate Certificate in Ecology, Evolution, and Environmental Biology at Columbia. William is passionate about climate change research, particularly the intersections between biodiversity, adaptation, and the future of polar landscapes. 
 
 <div class="clearfix"></div>
 
-![Malinda Chase]({{ "/assets/img/partners/MalindaChase_thumb.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Malinda Chase]({{ site.url }}/assets/img/partners/MalindaChase_thumb.jpg){:class="rounded float-left partner"}
 
 **Malinda Chase**, Partner
 
@@ -133,7 +139,7 @@ Malinda Chase, originally of Anvik, is the daughter of Rudy Chase, from Anvik, a
 
 <div class="clearfix"></div>
 
-![Lawrence Hamilton]({{ "/assets/img/partners/hamilton.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Lawrence Hamilton]({{ site.url }}/assets/img/partners/hamilton.jpeg){:class="rounded float-left partner"}
 
 **Lawrence Hamilton**, Partner
 
@@ -143,7 +149,7 @@ Dr. Lawrence (Larry) Hamilton is a professor of sociology at the University of N
 
 <div class="clearfix"></div>
 
-![Jessica Brunacini]({{ "/assets/img/partners/JessicaBrunacini.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Jessica Brunacini]({{ site.url }}/assets/img/partners/JessicaBrunacini.jpg){:class="rounded float-left partner"}
 
 **Jessica Brunacini**, Assistant Director
 
@@ -151,7 +157,7 @@ Jessica Brunacini is an environmental educator specializing in climate change co
 
 <div class="clearfix"></div>
 
-![Theresa Hernandez]({{ "/assets/img/partners/TheresaHernandez.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Theresa Hernandez]({{ site.url }}/assets/img/partners/TheresaHernandez.jpg){:class="rounded float-left partner"}
 
 **Theresa Hernandez**, Assistant Director
 
@@ -159,11 +165,15 @@ Theresa Hernandez is the Assistant Director at the Columbia Climate Center where
 
 <div class="clearfix"></div>
 
+![Carolyn Keen]({{ site.url }}/assets/img/partners/CarolynKeen.jpeg){:class="rounded float-left partner"}
+
 **Carolyn Keen,** Administration
 
 Carolyn Keen is Assistant Director of the Columbia Climate Center and the Center for Research on Environmental Decisions at Columbia's Earth Institute, where she is responsible for management and administration of both centers, as well as proposal development, educational programs, and special projects. She previously held positions at UC San Diego's Scripps Institution of Oceanography, where her responsibilities ranged from development and management of large NSF, NOAA, and ONR funded proposals and programs, to project specific and institution-wide communications, as well as community, government, and international relations. She holds a degree in Literature from UC Santa Cruz, and completed graduate coursework at the University of Pennsylvania as a PhD student in Comparative Literature. 
 
 <div class="clearfix"></div>
+
+![Madeline King]({{ site.url }}/assets/img/partners/MadelineKing.png){:class="rounded float-left partner"}
 
 **Madeline King,** External Evaluator
 
@@ -171,11 +181,15 @@ Madeline King was a Research Assistant at Goodman Research Group, Inc. (GRG). Sh
 
 <div class="clearfix"></div>
 
+![Emma Lukasiewicz]({{ site.url }}/assets/img/partners/EmmaLukasiewicz.png){:class="rounded float-left partner"}
+
 **Emma Lukasiewicz**, External Evaluator
 
 Emma Lukasiewicz was a Research Assistant at Goodman Research Group, Inc. (GRG). She began working with the PoLAR Partnership in 2014 and collaborated on the research and evaluation of several PoLAR resources including EcoChains, ReAC, and FutureCoast. Before joining GRG in 2013 she received her B.A. in Psychology from Harvard University.
 
 <div class="clearfix"></div>
+
+![Michael Moloney]({{ site.url }}/assets/img/partners/MichaelMoloney.jpg){:class="rounded float-left partner"}
 
 **Michael Moloney**, Post-Doc
 
@@ -183,7 +197,7 @@ Dr. Michael (Mike) Moloney is a Post-Doctoral Fellow at the University of Calgar
 
 <div class="clearfix"></div>
 
-![Elizabeth Bachrach]({{ "/assets/img/partners/ElizabethBachrach.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Elizabeth Bachrach]({{ site.url }}/assets/img/partners/ElizabethBachrach.jpg){:class="rounded float-left partner"}
 
 **Elizabeth Bachrach**, External Evaluator
 
@@ -191,7 +205,7 @@ Dr. Elizabeth Bachrach is a Senior Research Associate with Goodman Resource Grou
 
 <div class="clearfix"></div>
 
-![Annie Quinney]({{ "/assets/img/partners/quinney.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Annie Quinney]({{ site.url }}/assets/img/partners/quinney.jpg){:class="rounded float-left partner"}
 
 **Annie Quinney**, Post-Doc
 
@@ -201,7 +215,7 @@ Annie Quinney has a background in paleoclimatic reconstruction using fossil soil
 
 <div class="clearfix"></div>
 
-![Lisa Zaval]({{ "/assets/img/partners/zaval.jpg" | relative_url }}){:class="rounded float-left partner"}
+![Lisa Zaval]({{ site.url }}/assets/img/partners/zaval.jpg){:class="rounded float-left partner"}
 
 **Lisa Zaval**, Post-Doc
 
