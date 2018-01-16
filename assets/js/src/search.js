@@ -95,14 +95,37 @@ if (typeof require === 'function') {
                     searchParams.push(param.toLowerCase());
                 }
             });
-        }).filter(function(result) {
-            var hasSomeParams =
-                Object.keys(result.matchData.metadata).length
-                === searchParams.length;
-            return searchParams.join('') === '*' || hasSomeParams;
         });
 
         var me = this;
+        this.results = this.results.filter(function(r) {
+            var d = me.data[r.ref];
+
+            // If there is a param and a result doesn't have that param
+            // then filter it out.
+            if (params[1]) {
+                if (!d.climate_topics.includes(params[1])) {
+                    return false;
+                }
+            }
+            if (params[2]) {
+                if (!d.polar_topics.includes(params[2])) {
+                    return false;
+                }
+            }
+            if (params[3]) {
+                if (!d.resource_type.includes(params[3])) {
+                    return false;
+                }
+            }
+            if (params[4]) {
+                if (!d.audience.includes(params[4])) {
+                    return false;
+                }
+            }
+            return true;
+        });
+
         this.results.forEach(function(r) {
             var d = me.data[r.ref];
             var href = '../resources/' + slugify(d.title);
