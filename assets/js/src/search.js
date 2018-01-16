@@ -96,8 +96,9 @@ if (typeof require === 'function') {
                 }
             });
         }).filter(function(result) {
-            var hasSomeParams = Object.keys(result.matchData.metadata).length ===
-                searchParams.length;
+            var hasSomeParams =
+                Object.keys(result.matchData.metadata).length
+                === searchParams.length;
             return searchParams.join('') === '*' || hasSomeParams;
         });
 
@@ -180,9 +181,10 @@ if (typeof require === 'function') {
 
     if (typeof document === 'object') {
         $(document).ready(function() {
-            var loaderAnimation = '<div id="loader-animation-container" class="col-12">' +
-                                  '<div class="loader-inner ball-pulse"><div></div><div></div><div></div></div>' +
-                                  '</div>';
+            var loaderAnimation =
+                '<div id="loader-animation-container" class="col-12">' +
+                '<div class="loader-inner ball-pulse"><div></div><div>' +
+                '</div><div></div></div></div>';
 
             $('#search-results').append(loaderAnimation);
             var path = window.location.pathname.replace(/database\/$/, '');
@@ -233,7 +235,8 @@ if (typeof require === 'function') {
                     useAnchors: false,
                     cssStyle: 'light-theme',
                     onPageClick: function(pageNumber) {
-                        if (search.results.length > 0 || $('#q').val().length > 0) {
+                        if (search.results.length > 0 ||
+                                $('#q').val().length > 0) {
                             refreshEvents(search.results, pageNumber);
                         } else {
                             refreshEvents(search.results, pageNumber);
@@ -255,7 +258,8 @@ if (typeof require === 'function') {
                     });
 
                     $('#q').val(searchString);
-                    window.history.replaceState(null, '', window.location.pathname);
+                    window.history.replaceState(null, '',
+                        window.location.pathname);
                 }
 
                 search.doSearch([searchString,'','']);
@@ -274,7 +278,8 @@ if (typeof require === 'function') {
                     refreshEvents(search.results, 1);
                 });
 
-                $('select#formClimateTopics,select#formPolarTopics,select#formResourceType,select#formAudience')
+                $('select#formClimateTopics,select#formPolarTopics,' +
+                     'select#formResourceType,select#formAudience')
                     .change(function() {
                         clearSearch();
                         search.doSearch([
