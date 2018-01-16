@@ -51,10 +51,13 @@ describe('Search.doSearch()', function() {
         assert.strictEqual(s.results.length, 0);
 
         s.doSearch(['US Global Change', null, null, null, null]);
-        assert.strictEqual(s.results.length, 45);
+        assert.strictEqual(s.results.length, 186);
 
         s.doSearch(['', null, 'Arctic', null, null]);
         assert.strictEqual(s.results.length, 136);
+
+        s.doSearch(['coastal arctic food web', null, null, null, null]);
+        assert.strictEqual(s.results[0].ref, "A Coastal Arctic Food Web");
     });
 
     it('can search on multiple facets', function() {
