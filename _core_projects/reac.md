@@ -2,6 +2,7 @@
 layout: core_project 
 title: Reaching Arctic Communities Facing Climate Change (ReAC) 
 image: /files/ReAC-image.jpg 
+image-alt: "A group photo of attendies of The Signs of the Land: Reaching Arctic Communities Facing Climate Change (ReAC) Camp Academy"
 short-title: ReAC 
 landing-page-image: /files/project-square-reac.png
 landing-page-description: "The Signs of the Land Camp: Reaching Arctic Communities Facing Climate Change blends Alaska Native knowledge and western climate science."
