@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="container">
+          <h1>{{ page.title }}</h1>
+            {{ content }}
+
+            {% assign items = site.news_items | sort: 'date' | reverse %}
+            {% for item in items %}
+            <div class="media">
+                <img class="d-flex mr-3" src="{{ item.image | relative_url }}">
+                <div class="media-body">
+                    <h5 class="mt-0">
+                        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    </h5>
+                    {{ item.description }}<br/>
+                    {{ item.date |  date: "%m/%d/%Y" }}
+                </div>
+            </div>
+            {% endfor %}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
