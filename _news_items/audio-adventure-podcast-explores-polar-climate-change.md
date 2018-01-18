@@ -12,9 +12,9 @@ News](http://uafcornerstone.net/audio-adventure-podcast-explores-polar-climate-c
 
 An audio adventure series podcast produced by the University of Alaska
 Museum of the North has debuted on the PoLAR Hub website. [PoLAR
-Voices]({{ "/core_projects/polar_voices" | relative_url }}) is part of Columbia
+Voices]({{ site.url }}{{ "/core_projects/polar_voices" }}) is part of Columbia
 University's [PoLAR Climate Change Education
-Partnership]({{ "/core-projects" | relative_url }}), which
+Partnership]({{ site.url }}{{ "/core-projects" }}), which
 includes UAF and is supported by a five-year, 5.6 million dollar grant
 from the National Science Foundation to develop a suite of innovative
 educational tools that engage people in learning about and responding to
@@ -62,11 +62,11 @@ research, which in turn will enable broader and better public
 understanding of global climate change," she said.
 
 You can listen to the first episode of PoLAR Voices
-at [thepolarhub.org]({{ "/core-projects/polar_voices" | relative_url }}).
+at [thepolarhub.org]({{ site.url }}{{ "/core-projects/polar_voices" }}).
 
 **ADDITIONAL CONTACTS: **Roger Topp, UAMN head of exhibits and digital
 media production, at 907-474-6985 or via email at <rmtopp@alaska.edu>.
 
 **ON THE WEB:**  
-[PoLAR Voices]({{ "/core-projects/polar_voices" | relative_url }})  
-[PoLAR Climate Change Education Partnership]({{ "/core-projects" | relative_url }})
+[PoLAR Voices]({{ site.url }}{{ "/core-projects/polar_voices" }})  
+[PoLAR Climate Change Education Partnership]({{ site.url }}{{ "/core-projects" }})

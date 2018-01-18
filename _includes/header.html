@@ -9,12 +9,12 @@
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <a class="navbar-brand" href="{{ "/" | relative_url}}"><img src="{{ "/assets/img/logo_thepolarhub.png" | relative_url }}" style="width:300px;" alt="{{ site.title | escape }}" /></a>
+        <a class="navbar-brand" href="{{ site.url }}{{ "/" }}"><img src="{{ site.url }}{{ "/assets/img/logo_thepolarhub.png" }}" style="width:300px;" alt="{{ site.title | escape }}" /></a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ "/" | relative_url }}">Home</a>
+                    <a class="nav-link" href="{{ site.url }}{{ "/" }}">Home</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#"
@@ -23,9 +23,9 @@
                         About
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-1">
-                        <a class="dropdown-item" href="{{ "/background/" | relative_url }}">Background</a>
-                        <a class="dropdown-item" href="{{ "/partners/" | relative_url }}">Partners</a>
-                        <a class="dropdown-item" href="{{ "/external-advisory-committee/" | relative_url }}">External Advisory Committee</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/background/" }}">Background</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/partners/" }}">Partners</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/external-advisory-committee/" }}">External Advisory Committee</a>
                     </div>
                 </li>
 
@@ -36,8 +36,8 @@
                         Projects
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-3">
-                        <a class="dropdown-item" href="{{ "/core-projects/" | relative_url }}">Core Projects</a>
-                        <a class="dropdown-item" href="{{ "/supplementary-projects/" | relative_url }}">Supplementary Projects</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/core-projects/" }}">Core Projects</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/supplementary-projects/" }}">Supplementary Projects</a>
                     </div>
                 </li>
 
@@ -48,20 +48,20 @@
                         Research
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-2">
-                        <a class="dropdown-item" href="{{ "/project-research/" | relative_url }}">Project Research</a>
-                        <a class="dropdown-item" href="{{ "/public-polling/" | relative_url }}">Public Polling</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/project-research/" }}">Project Research</a>
+                        <a class="dropdown-item" href="{{ site.url }}{{ "/public-polling/" }}">Public Polling</a>
                     </div>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ "/database/" | relative_url }}">Database</a>
+                    <a class="nav-link" href="{{ site.url }}{{ "/database/" }}">Database</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ "/news-archive/" | relative_url }}">News Archive</a>
+                    <a class="nav-link" href="{{ site.url }}{{ "/news-archive/" }}">News Archive</a>
                 </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0" id="search-box" action="{{ "/database/" | relative_url }}">
+            <form class="form-inline my-2 my-lg-0" id="search-box" action="{{ site.url }}{{ "/database/" }}">
                 <input class="form-control mr-sm-2" type="text" placeholder="Search" name="q">
                 <button class="btn btn-light my-2 my-sm-0" type="submit">Search</button>
             </form>
