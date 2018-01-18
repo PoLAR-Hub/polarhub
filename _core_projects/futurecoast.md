@@ -2,6 +2,7 @@
 layout: core_project 
 title: FutureCoast
 image: /files/FutureCoast_image.jpg
+image-alt: "Three FutureCoast participants inside a phone booth."
 short-title: FutureCoast
 landing-page-image: /files/FutureCoast_TPHupdated-image.jpg
 landing-page-description: Explore publicly crowd sourced voicemails about possible climate changed futures in this collaborative storytelling experience.

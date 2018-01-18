@@ -2,6 +2,7 @@
 layout: core_project 
 title: "Online Professional Development for Teachers: Climate Change"
 image: /files/W1E1_1_full.jpg
+image-alt: "A glacier floating in the sea."
 short-title: AMNH Climate Courses
 landing-page-image: /files/project-square-opd.png
 landing-page-description: Teachers and lifelong learners dive into the science of climate change through online and in person courses.

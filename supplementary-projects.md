@@ -6,7 +6,7 @@ permalink: /supplementary-projects/
 
 ## Polar Puzzles
 
-<img class="img-fluid" src="{{ 'assets/img/puzzles-screenshot.png' | relative_url }}">
+![A juxtoposition of a historic view of a glacier and its current depleted state, as depicted by the puzzle pieces.]({{ site.url }}{{ '/assets/img/puzzles-screenshot.png' }}){: .img-fluid }
 
 Maps and photographs help connect people visually to remote locations that are undergoing impacts from a changing climate. Puzzles offer a kinesthetic way to interact with and learn about scientific data.  The PoLAR Partnership combined these engaging learning tools and developed a series of puzzle-based activities that highlight the rapid changes taking place in the Arctic, Alaska, and Antarctica.  The puzzle activities can be used (1) in classrooms with groups or teams of students completing a puzzle and sharing what they learned with the rest of the class, or (2) in informal education settings as a facilitated experience to explore polar climate change. For an idea of how these tools work, check out [a high-speed video](https://www.youtube.com/watch?v=x7p5yDbznmE) of the Alaskan glacier puzzles being pieced together.   
 
@@ -22,42 +22,42 @@ The puzzle is a MODIS Satellite image of the ice covering Antarctica. The accomp
 * a map of subglacial lakes, showing locations of lakes that are formed by geothermal heat from the interior of the earth
 * an ice elevation map, showing the amount of ice mounded on West and East Antarctica
 
-<a href="{{ 'files/Antarctica_SateliliteImage_Puzzle_0.jpg' | relative_url }}">Puzzle</a>
+<a href="{{ site.url }}{{ '/files/Antarctica_SateliliteImage_Puzzle_0.jpg' }}">Puzzle</a>
  
-<a href="{{ 'files/Antarctica_Maps_Underlays.pptx' | relative_url }}">Underlays (.pptx download)</a>
+<a href="{{ site.url }}{{ '/files/Antarctica_Maps_Underlays.pptx' }}">Underlays (.pptx download)</a>
  
 **Plateau Glacier, Alaska**
 
 The puzzle is a photograph of the Plateau Glacier in 2003. The underlay is a photograph of the same glacier from the same perspective in 1961. Over this 42 year period, the ice has all but disappeared.  For scale, there are two people standing on the peninsula in both images.
 
-<a href="{{ 'files/PlateauGlacier_2003_Puzzle.png' | relative_url }}">Puzzle</a>
+<a href="{{ site.url }}{{ '/files/PlateauGlacier_2003_Puzzle.png' }}">Puzzle</a>
  
-<a href="{{ 'files/PlateauGlacier_1961_Underlay.png' | relative_url }}">Underlay</a>
+<a href="{{ site.url }}{{ '/files/PlateauGlacier_1961_Underlay.png' }}">Underlay</a>
 
 **Pedersen Glacier, Alaska**
 
 The puzzle is a photograph of the Pedersen Glacier in 2005. The underlay is a photograph of the same glacier from the same perspective in the 1920s. Over this ~80 year period, the glacier has effectively disappeared.
 
-<a href="{{ 'files/PedersenGlacier_2005_Puzzle.png' | relative_url }}">Puzzle</a>
+<a href="{{ site.url }}{{ '/files/PedersenGlacier_2005_Puzzle.png' }}">Puzzle</a>
  
-<a href="{{ 'files/PedersenGlacier_1920s_Underlay.png' | relative_url }}">Underlay</a>
+<a href="{{ site.url }}{{ '/files/PedersenGlacier_1920s_Underlay.png' }}">Underlay</a>
 
 **Arctic Ocean**
 
 The puzzle is the International Bathymetric Chart of the Arctic Ocean basin. Without the sea ice that normally covers the Arctic Ocean, people might find it unrecognizable.  There are three accompanying overlay images of the summertime minimum extent of Arctic sea ice.  The first two show sea ice extent from the summers of 1984 and 2012 based on satellite data.   The third image features a projection for summer sea ice extent in 2050 based on climate models.  We suggest printing these images at the same scale as the puzzle and then cutting out just the sea ice sections and placing them on top of the completed puzzle. You can use the printed piece directly, but we suggest either laminating it or tracing it onto pieces of white foam for use.  There is a suggested script for this puzzle activity as well.
 
 
-<a href="{{ 'files/ArcticOcean_BathymetryMap_Puzzle.jpg' | relative_url }}">Puzzle</a>
+<a href="{{ site.url }}{{ '/files/ArcticOcean_BathymetryMap_Puzzle.jpg' }}">Puzzle</a>
  
-<a href="{{ 'files/ArcticSeaIce_1984-2012_MinimumExtent_Overlays.png' | relative_url }}">Underlay 1</a>
+<a href="{{ site.url }}{{ '/files/ArcticSeaIce_1984-2012_MinimumExtent_Overlays.png' }}">Underlay 1</a>
   
-<a href="{{ 'files/ArcticSeaIce_2050ProjectedMinimum_Overlay.png' | relative_url }}">Underlay 2</a>
+<a href="{{ site.url }}{{ '/files/ArcticSeaIce_2050ProjectedMinimum_Overlay.png' }}">Underlay 2</a>
     
-<a href="{{ 'files/ArcticOcean_Puzzle-Overlays_Script.docx' | relative_url }}">Script (.docx download)</a>
+<a href="{{ site.url }}{{ '/files/ArcticOcean_Puzzle-Overlays_Script.docx' }}">Script (.docx download)</a>
 
 ## Arctic Sea Ice Area Hands-On Demo
 
-<img class="img-fluid" src="{{ 'assets/img/PolarWeekendStephaniePic.jpg' | relative_url }}">
+![A mother watches as a child learns about the effects of shrinking sea ice.]({{ site.url }}{{ '/assets/img/PolarWeekendStephaniePic.jpg' }}){: .img-fluid }
 
 The Shrinking Arctic Sea Ice and Last Sea Ice Area activity, developed by the PoLAR Partnership's Principal Investiagor Stephanie Pfirman, provides learners with a hands-on opportunity to explore how Arctic sea ice is shrinking and what it means for ice-dependent species like polar bears and walrus. The activity can be used in classrooms and at public events to engage learners of all ages, and is especially effective for family-friendly events. A description of the activity, including background information, material instructions, a facilitator script, and accompanying poster, is available via the Lamont-Doherty Earth Observatory's [Polar Weekend Science Activities  site](http://www.ldeo.columbia.edu/edu/polareducation/Activities/LIA-EducationTemplate_Pfirman_2014update_Part1.pdf). 
 
