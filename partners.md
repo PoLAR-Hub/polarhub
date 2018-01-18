@@ -167,7 +167,7 @@ Theresa Hernandez is the Assistant Director at the Columbia Climate Center where
 
 ![Carolyn Keen]({{ site.url }}/assets/img/partners/CarolynKeen.jpeg){:class="rounded float-left partner"}
 
-**Carolyn Keen,** Administration
+**Carolyn Keen,** Assistant Director
 
 Carolyn Keen is Assistant Director of the Columbia Climate Center and the Center for Research on Environmental Decisions at Columbia's Earth Institute, where she is responsible for management and administration of both centers, as well as proposal development, educational programs, and special projects. She previously held positions at UC San Diego's Scripps Institution of Oceanography, where her responsibilities ranged from development and management of large NSF, NOAA, and ONR funded proposals and programs, to project specific and institution-wide communications, as well as community, government, and international relations. She holds a degree in Literature from UC Santa Cruz, and completed graduate coursework at the University of Pennsylvania as a PhD student in Comparative Literature. 
 
