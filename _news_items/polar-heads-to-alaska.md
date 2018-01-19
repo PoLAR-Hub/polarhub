@@ -21,10 +21,10 @@ conference focused on opportunities for professional development and the
 use of innovative tools for climate change education.  Teachers who
 participated in the sessions were excited to learn about and interact
 with PoLAR resources,
-including [SMARTIC]({{ "/core_projects/smartic" | relative_url }}), [Polar
-Explorer]({{ "/core_projects/polar_explorer" | relative_url }}), [EcoChains]({{ "/core_projects/ecochains" | relative_url }}),
+including [SMARTIC]({{ site.url }}{{ "/core_projects/smartic" }}), [Polar
+Explorer]({{ site.url }}{{ "/core_projects/polar_explorer" }}), [EcoChains]({{ site.url }}{{ "/core_projects/ecochains" }}),
 and [AMNH's online professional development course on climate
-change]({{ "/core_projects/amnh_climate_courses" | relative_url }}).
+change]({{ site.url }}{{ "/core_projects/amnh_climate_courses" }}).
  Many teachers expressed a strong interest in using the PoLAR tools in
 their classrooms.  They also provided valuable feedback as to what could
 increase the use of the resources throughout Alaska, for example
@@ -40,7 +40,7 @@ Excellence](http://www.coseealaska.net/), to learn more about the wide
 variety of climate change education resources and programming available
 to Alaskan teachers.  Kelsey Gobroski also collected interviews and
 audio from the conference for the [Polar
-Voices]({{ "/core_projects/polar_voices" | relative_url }}) project.   
+Voices]({{ site.url }}{{ "/core_projects/polar_voices" }}) project.   
 
 Following the conference, Margie Turrin and Jessica Brunacini drove down
 to Seward to visit the [Alaska SeaLife

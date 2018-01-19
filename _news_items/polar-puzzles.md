@@ -53,9 +53,9 @@ The accompanying set of underlays include:
 -   an ice elevation map, showing the amount of ice mounded on West and
     East Antarctica
 
-Puzzle: [Antarctica\_SateliliteImage\_Puzzle.jpg]({{ "/files/Antarctica_SateliliteImage_Puzzle_0.jpg" | relative_url }})
+Puzzle: [Antarctica\_SateliliteImage\_Puzzle.jpg]({{ site.url }}{{ "/files/Antarctica_SateliliteImage_Puzzle_0.jpg" }})
 
-Underlays: [Antarctica\_Maps\_Underlays.pptx]({{ "/files/Antarctica_Maps_Underlays.pptx" | relative_url }})
+Underlays: [Antarctica\_Maps\_Underlays.pptx]({{ site.url }}{{ "/files/Antarctica_Maps_Underlays.pptx" }})
 
 **Plateau Glacier, Alaska**
 
@@ -65,9 +65,9 @@ in 1961. Over this 42 year period, the ice has all but disappeared.  For
 scale, there are two people standing on the peninsula in both
 images.
 
-Puzzle: [PlateauGlacier\_2003\_Puzzle.png]({{ "/files/PlateauGlacier_2003_Puzzle.png" | relative_url }})
+Puzzle: [PlateauGlacier\_2003\_Puzzle.png]({{ site.url }}{{ "/files/PlateauGlacier_2003_Puzzle.png" }})
 
-Underlay: [PlateauGlacier\_1961\_Underlay.png]({{ "/files/PlateauGlacier_1961_Underlay.png" | relative_url }})
+Underlay: [PlateauGlacier\_1961\_Underlay.png]({{ site.url }}{{ "/files/PlateauGlacier_1961_Underlay.png" }})
 
 **Pedersen Glacier, Alaska**
 
@@ -76,9 +76,9 @@ underlay is a photograph of the same glacier from the same perspective
 in the 1920s. Over this \~80 year period, the glacier has effectively
 disappeared.
 
-Puzzle: [PedersenGlacier\_2005\_Puzzle.png]({{ "/files/PedersenGlacier_2005_Puzzle.png" | relative_url }})
+Puzzle: [PedersenGlacier\_2005\_Puzzle.png]({{ site.url }}{{ "/files/PedersenGlacier_2005_Puzzle.png" }})
 
-Underlay: [PedersenGlacier\_1920s\_Underlay.png]({{ "/files/PedersenGlacier_1920s_Underlay.png" | relative_url }})
+Underlay: [PedersenGlacier\_1920s\_Underlay.png]({{ site.url }}{{ "/files/PedersenGlacier_1920s_Underlay.png" }})
 
 **Arctic Ocean**
 
@@ -96,9 +96,9 @@ tracing it onto pieces of white foam for use.  There is a suggested
 script for this puzzle activity as
 well.
 
-Puzzle: [ArcticOcean\_BathymetryMap\_Puzzle.jpg]({{ "/files/ArcticOcean_BathymetryMap_Puzzle.jpg" | relative_url }})
+Puzzle: [ArcticOcean\_BathymetryMap\_Puzzle.jpg]({{ site.url }}{{ "/files/ArcticOcean_BathymetryMap_Puzzle.jpg" }})
 
-Overlays: [ArcticSeaIce\_1984-2012\_MinimumExtent\_Overlays.png]({{ "/files/ArcticSeaIce_1984-2012_MinimumExtent_Overlays.png" | relative_url }}) and [ArcticSeaIce\_2050ProjectedMinimum\_Overlay.png]({{ "/files/ArcticSeaIce_2050ProjectedMinimum_Overlay.png" | relative_url }})
+Overlays: [ArcticSeaIce\_1984-2012\_MinimumExtent\_Overlays.png]({{ site.url }}{{ "/files/ArcticSeaIce_1984-2012_MinimumExtent_Overlays.png" }}) and [ArcticSeaIce\_2050ProjectedMinimum\_Overlay.png]({{ site.url }}{{ "/files/ArcticSeaIce_2050ProjectedMinimum_Overlay.png" }})
 
-Script: [ArcticOcean\_Puzzle-Overlays\_Script.docx]({{ "/files/ArcticOcean_Puzzle-Overlays_Script.docx" | relative_url }})
+Script: [ArcticOcean\_Puzzle-Overlays\_Script.docx]({{ site.url }}{{ "/files/ArcticOcean_Puzzle-Overlays_Script.docx" }})
 

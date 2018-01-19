@@ -21,7 +21,7 @@ presentations, dialogue, and hands-on, community-building
 activities. 
 
 Part of [Columbia University's Polar Learning and Responding (PoLAR)
-Climate Change Education Partnership]({{ "/" | relative_url }}),
+Climate Change Education Partnership]({{ site.url }}{{ "/" }}),
 the *Signs of the Land*Climate Change Camp was developed and conducted
 collaboratively by multiple partners, including [Doyon
 Foundation](http://www.doyonfoundation.com/), the Association of
