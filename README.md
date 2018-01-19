@@ -3,8 +3,8 @@ The Polar Hub on Jekyll
 
 [![Build Status](https://travis-ci.org/ccnmtl/polarhub.svg?branch=master)](https://travis-ci.org/ccnmtl/polarhub)
 
-##How to create new content
-###Preliminary Info about Markdown
+## How to create new content
+### Preliminary Info about Markdown
 An individual page in Jekyll is stored in an individual Markdown file (with the file extension `.md`).  Files of content can be organized into collections in the following folders:
 ```
 _core_projects  
@@ -25,10 +25,10 @@ some_arbitrary_field: "This is arbitrary data"
 
 In short Markdown is a language that makes it easier to format text for the web.  Jekyll reads in the Markdown and churns out nicely formatted HTML.  A useful cheatsheet for Markdown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-###Creating new content
+### Creating new content
 To create new piece of content for the site, simply create a new Markdown file in the root directory or in the collection of your choice.  To ensure that the front matter for your new item is consistent with other pages its suggested that you copy the front matter from another page of the same collection.
 
-###Front matter defaults
+### Front matter defaults
 For reference, below are some boilerplate code you can use to start creating a new page:
 
 __page__ (this would be a page in the root directory)
@@ -111,15 +111,15 @@ audience:
 * `audience`
 
                         
-##How to upload images
+## How to upload images
 
-                        Images for content are stored in the [files folder](https://github.com/PoLAR-Hub/polarhub/tree/master/files). Click over to the files folder and simply upload the file there. Github's instructions can be found [here](https://help.github.com/articles/adding-a-file-to-a-repository/)
+Images for content are stored in the [files folder](https://github.com/PoLAR-Hub/polarhub/tree/master/files). Click over to the files folder and simply upload the file there. Github's instructions can be found [here](https://help.github.com/articles/adding-a-file-to-a-repository/)
 
-##How to update existing items
+## How to update existing items
 Existing items can be edited from Github.  Again instructions can be found [here](https://help.github.com/articles/editing-files-in-your-repository/)
 
-##How to delete entire items
+## How to delete entire items
 Items can be deleted following Github's [instructions](https://github.com/blog/1545-deleting-files-on-github).
 
-##Which branch to update
-Github uses the concept of branches to organize changes of code.  Though this is useful for developers, as content editors, you need not worry about this.  You can commit your changes directly to master.
+## Which branch to update
+Github uses the concept of branches to organize changes of code.  Though this is useful for developers, as content editors, you need not worry about this.  You can commit your changes directly to the master branch.
