@@ -4,16 +4,16 @@ The Polar Hub on Jekyll
 [![Build Status](https://travis-ci.org/ccnmtl/polarhub.svg?branch=master)](https://travis-ci.org/ccnmtl/polarhub)
 
 ## How to create new content
-### Preliminary Info about Markdown
-An individual page in Jekyll is stored in an individual Markdown file (with the file extension `.md`).  Files of content can be organized into collections in the following folders:
+### Preliminary Info about content files and Markdown
+An individual page in Jekyll is stored in an individual files (with the file extension `.md` for Markdown).  Files of content can be organized into collections in the following folders:
 ```
 _core_projects  
 _news_items  
 _resources  
 ```
-A Markdown file can be saved in the root directory of the project, or in one of these collections. Saving to a collection lets the site "know" that it should handle a given piece of content a certain way.  For example, creating a new Markdown file in `_news_items` will have the site list that piece of content as in the news item listings page.
+A content file can be saved in the root directory of the project, or in one of these collections. Saving to a collection lets the site "know" that it should handle a given piece of content a certain way.  For example, creating a new Markdown file in `_news_items` will have the site list that piece of content as in the news item listings page.
 
-The first few lines of Markdown files should consist of 'front matter'.  This is a listing of key-value pairs that provide a structured way of organizing data about a file. This front matter is listed between two lines of three dashes. For example:
+The first few lines of content files should consist of 'front matter'.  This is a listing of key-value pairs that provide a structured way of organizing data about a file. This front matter is listed between two lines of three dashes. For example:
 
 ```
 ---
@@ -23,7 +23,7 @@ some_arbitrary_field: "This is arbitrary data"
 ---
 ```
 
-In short Markdown is a language that makes it easier to format text for the web.  Jekyll reads in the Markdown and churns out nicely formatted HTML.  A useful cheatsheet for Markdown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Markdown is a language that makes it easier to format text for the web.  Jekyll reads in the Markdown and churns out nicely formatted HTML.  A useful cheatsheet for Markdown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Creating new content
 To create new piece of content for the site, simply create a new Markdown file in the root directory or in the collection of your choice.  To ensure that the front matter for your new item is consistent with other pages its suggested that you copy the front matter from another page of the same collection.
