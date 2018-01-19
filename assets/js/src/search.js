@@ -267,7 +267,7 @@ if (typeof require === 'function') {
                     }
                 });
 
-                search.doSearch([searchString,'','']);
+                search.doSearch(['','','']);
                 refreshEvents(search.results, 1);
 
                 $('#clear-search').click(clearSearch);

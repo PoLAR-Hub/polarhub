@@ -57,7 +57,7 @@ describe('Search.doSearch()', function() {
         assert.strictEqual(s.results.length, 136);
 
         s.doSearch(['coastal arctic food web', null, null, null, null]);
-        assert.strictEqual(s.results[0].ref, "A Coastal Arctic Food Web");
+        assert.strictEqual(s.results[0].ref, 'A Coastal Arctic Food Web');
     });
 
     it('can search on multiple facets', function() {
