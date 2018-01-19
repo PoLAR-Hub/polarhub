@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-        <link rel="stylesheet" href="{{ "/assets/css/loaders.min.css" | relative_url }}">
+        <link rel="stylesheet" href="{{ site.url }}{{ "/assets/css/loaders.min.css"  }}">
     {% include head.html %}
     <body>
 
@@ -52,10 +52,10 @@
 
         {% include footer.html %}
 
-        <script src="{{ "/assets/js/lib/lunr.js" | relative_url }}"></script>
-        <script src="{{ "/assets/js/src/search.js" | relative_url }}"></script>
-        <link rel="stylesheet" href="{{ "/assets/css/simplePagination.css" | relative_url }}">
-        <script src="{{ "/assets/js/lib/jquery.simplePagination.js" | relative_url }}"></script>
+        <script src="{{ site.url }}{{ "/assets/js/lib/lunr.js"  }}"></script>
+        <script src="{{ site.url }}{{ "/assets/js/src/search.js"  }}"></script>
+        <link rel="stylesheet" href="{{ site.url }}{{ "/assets/css/simplePagination.css"  }}">
+        <script src="{{ site.url }}{{ "/assets/js/lib/jquery.simplePagination.js"  }}"></script>
     </body>
 
 </html>

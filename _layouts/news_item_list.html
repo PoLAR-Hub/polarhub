@@ -16,10 +16,10 @@
             {% assign items = site.news_items | sort: 'date' | reverse %}
             {% for item in items %}
             <div class="media">
-                <img class="d-flex mr-3" src="{{ item.image | relative_url }}">
+                <img class="d-flex mr-3" src="{{ site.url }}{{ item.image }}">
                 <div class="media-body">
                     <h5 class="mt-0">
-                        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                        <a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
                     </h5>
                     {{ item.description }}<br/>
                     {{ item.date |  date: "%m/%d/%Y" }}
