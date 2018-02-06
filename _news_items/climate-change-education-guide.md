@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: "Climate Change Education Guide and Webinar Series on Effective Practies Now Available"
-date: "December 15, 2014"
+date: "February 1, 2017"
 author: "Jessica Brunacini"
 description: "Climate Change Education Guide"
 image: "/assets/img/news-items/ClimateChangeEd-Guide-news-image.png"
