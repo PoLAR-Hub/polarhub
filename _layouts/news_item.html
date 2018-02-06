@@ -6,6 +6,7 @@ layout: default
     <header class="news-item-header">
         <h1 class="news-item-title">{{ page.title | escape }}</h1>
         <div class="news-item-author">{{ page.author | escape }}</div>
+        <div class="news-item-date">{{ page.date |  date: "%m/%d/%Y" }}</div>
     </header>
 
     <div class="news-item-content">
