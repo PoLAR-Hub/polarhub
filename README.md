@@ -44,9 +44,11 @@ permalink: /some/path.html # this is the path that you would like to page to app
 __Core Project__
 
 ```
---
-layout: core_project                                                                                                                                                      title: "Online Professional Development for Teachers: Climate Change"
+---
+layout: core_project 
+title: "Online Professional Development for Teachers: Climate Change"
 image: /files/W1E1_1_full.jpg
+image-alt: "A glacier floating in the sea."
 short-title: AMNH Climate Courses
 landing-page-image: /files/project-square-opd.png
 landing-page-description: "Teachers and lifelong learners dive into the science of climate change through online and in person courses."
@@ -56,6 +58,7 @@ permalink: /core-projects/amnh_climate_courses.html
 * Layout: is the template that Jekyll should use to render this page. For Core Projets, always use `core_project`
 * Title: self-explanitory
 * Image: this is the path to the image to display on the page
+* Image Alt: This is the alt text associated with the image. It is the text that is read by screen readers. As these images often convey meaningful information about the project, its best to fill these in with a description that descibes the image in the context of the project.
 * Short Title: This is the title that appears on the Core Projects listing page
 * Landing Page Image: is the image that appeears on the Core Projects listing page
 * Landing Page Description: is the description that appears on the landing page
