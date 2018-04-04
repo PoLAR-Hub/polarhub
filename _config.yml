@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   research, the Hub provides information on educational resources
   focused on polar climate change, including the games, activities,
   and other innovative tools developed by the PoLAR Partnership.
-url: "https://polar-hub.github.io/polarhub/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thepolarhub.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
