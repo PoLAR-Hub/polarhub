@@ -33,8 +33,8 @@ Quick guides are also available for using EcoChains in classroms and other learn
 
 Educators can also pair the game with a [companion article](https://drive.google.com/open?id=0By1P8MnVLT5vUU1zNTJBN1NzZkk) for extended learning. 
 
-The followind species guides are also available for download:
-[Beluga Species Guide] (polarhub/files/Beluga.pdf)
+The following species guides are also available for download:
+[Beluga Species Guide] (Beluga.pdf)
 
 **Project Personnel:**
 Stephanie Pfirman (Co-Lead), Barnard College
