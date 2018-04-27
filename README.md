@@ -126,3 +126,6 @@ Items can be deleted following Github's [instructions](https://github.com/blog/1
 
 ## Which branch to update
 Github uses the concept of branches to organize changes of code.  Though this is useful for developers, as content editors, you need not worry about this.  You can commit your changes directly to the master branch.
+
+## General Site Configuration
+This DNS for this site is configured to point to CloudFlare which then proxies back to GitHub, which actually hosts the site. This is done to provide an HTTPS support to site visitors. The CloudFlare account is on a free plan and requires little maintenance.
